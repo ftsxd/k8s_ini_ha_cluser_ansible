@@ -1,0 +1,2 @@
+# k8s_ini_ha_cluser_ansible
+ansible初始化k8s
